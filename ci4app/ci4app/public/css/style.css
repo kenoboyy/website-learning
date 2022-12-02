@@ -1,0 +1,23 @@
+img{
+    width: 100px;
+}
+
+.judul{
+    font-size: 100px;
+    font-weight: 500;
+    color: #5c0000;
+}
+
+.devices{
+    margin-top: 20px;
+    font-weight: 500;
+    color: #5c0000;
+}
+
+tr,td,th{
+    text-align: center;
+}
+
+.card{
+    margin-top: 30px;
+}
